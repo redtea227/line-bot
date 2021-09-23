@@ -1,4 +1,5 @@
 # line-bot
+![image](https://github.com/redtea227/line-bot/blob/master/QR_lineBot.jpg)
 <h3>製作line聊天機器人很大的時間會是在架設上面<br>
 把程式碼放到雲端上去執行 少部分在寫程式</h3>
 • 使用者手機=>雲端line server=>轉載web app<br>
