@@ -3,9 +3,9 @@
 <h3>製作line聊天機器人很大的時間會是在架設上面<br>
 把程式碼放到雲端上去執行 少部分在寫程式</h3>
 • 使用者手機=>雲端line server=>轉載web app<br>
-• LINE Messaging API註冊<br>
-• 取得token/channel secret 啟用webhooks<br>
-• Python Flask架設API<br>
+• LINE Messaging API註冊<br>
+• 取得token/channel secret 啟用webhooks<br>
+• Python Flask架設API<br>
 • Github專案上傳至Heroku雲端伺服器執行
 
 
